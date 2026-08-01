@@ -41,3 +41,6 @@ The author’s manuscript pages are rendered directly from the supplied paperbac
 Faharia and the supplied book pages are copyright © 2026 Lauren James Li. Published by Whisper Prints.
 
 Free Ebook Preview Website created by [authors.kronatrix](https://authors.kronatrix.co.uk/) and powered by [KRONATRIX](https://kronatrix.co.uk/).
+
+## Corrected reduced upload package
+This corrected package intentionally uses fewer than 100 files so it can be uploaded in one GitHub browser upload. It contains one optimized image per preview page and removes every reference to missing AVIF or alternate-size files. Upload every file and folder in this package to the repository root and replace `index.html` when GitHub asks.
