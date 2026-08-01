@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fahariabylaurenjamesli.github.io/faharia-book-by-lauren-james-li-free-preview/sitemap.xml
