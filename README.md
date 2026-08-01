@@ -1,46 +1,14 @@
-# Faharia by Lauren James Li - Free Book Preview
+# Faharia by Lauren James Li — GitHub Pages Upload
 
-Official author-approved GitHub Pages preview website for **Faharia**, Book 1 of the Faharia Trilogy, by **Lauren James Li**.
+This is the **flat-file GitHub upload version**. Every image is intentionally stored in the repository root because GitHub browser upload flattened the previous folders.
 
-## Live URL
-https://fahariabylaurenjamesli.github.io/faharia-book-by-lauren-james-li-free-preview/
+## Upload
 
-## Repository
-`faharia-book-by-lauren-james-li-free-preview`
+1. Open this extracted folder.
+2. Select every file inside it.
+3. In the GitHub repository, choose **Add file → Upload files**.
+4. Drag all selected files into the upload area.
+5. Commit with: `Fix Faharia image paths with flat-file upload`
+6. Wait 2–5 minutes, then hard refresh the live site with `Ctrl + Shift + R`.
 
-## Repository description
-Faharia by Lauren James Li, Free Ebook Preview Website for Book 1 of the Faharia Trilogy. Read the official Faharia book sample, then buy the full book on Amazon. Created by authors.kronatrix.co.uk and powered by kronatrix.co.uk.
-
-## GitHub Pages setup
-1. Upload every file and folder in this package to the repository root.
-2. Open **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)`, then save.
-5. Wait for GitHub Pages to publish the site at the live URL above.
-
-## Google Search Console
-Use the dedicated Google account: `fahariabylaurenjamesli@gmail.com`. Add the live GitHub Pages URL as a URL-prefix property. When Google supplies an HTML verification file, upload it unchanged to the repository root. Then verify the property, submit `https://fahariabylaurenjamesli.github.io/faharia-book-by-lauren-james-li-free-preview/sitemap.xml`, and request indexing for the homepage.
-
-No Search Console verification file is included yet because Google has not supplied one. No Google Analytics tag is included because no measurement ID has been supplied.
-
-## Main files
-- `index.html` - complete responsive preview website
-- `404.html` - branded not-found page
-- `robots.txt` - crawler rules and sitemap location
-- `sitemap.xml` - homepage and image sitemap entries
-- `llms.txt` - AI-readable book, author and link information
-- `site.webmanifest` - installable website metadata
-- `favicon.ico` and icon files
-- `assets/` - optimized cover, back cover, social image and exact PDF page images
-- `.nojekyll` - serves the repository as a static GitHub Pages site
-
-## Important content rule
-The author’s manuscript pages are rendered directly from the supplied paperback PDF. Do not edit, rewrite, correct, shorten, paraphrase, reorder or replace the book pages during future updates.
-
-## Copyright
-Faharia and the supplied book pages are copyright © 2026 Lauren James Li. Published by Whisper Prints.
-
-Free Ebook Preview Website created by [authors.kronatrix](https://authors.kronatrix.co.uk/) and powered by [KRONATRIX](https://kronatrix.co.uk/).
-
-## Corrected reduced upload package
-This corrected package intentionally uses fewer than 100 files so it can be uploaded in one GitHub browser upload. It contains one optimized image per preview page and removes every reference to missing AVIF or alternate-size files. Upload every file and folder in this package to the repository root and replace `index.html` when GitHub asks.
+Do not upload the ZIP itself. Do not place these files inside an `assets` folder. `index.html` and all `.jpg`, `.webp`, `.png`, `.ico`, `.xml`, `.txt`, and manifest files must appear together in the repository root.

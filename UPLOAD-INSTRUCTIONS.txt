@@ -1,0 +1,9 @@
+IMPORTANT: UPLOAD EVERY FILE IN THIS FOLDER DIRECTLY TO THE REPOSITORY ROOT.
+
+Do not upload the ZIP.
+Do not create an assets folder.
+Do not upload the outer folder itself.
+
+The repository root must show index.html and all image files together.
+Commit message: Fix Faharia image paths with flat-file upload
+After GitHub Pages updates, press Ctrl + Shift + R on the live site.
