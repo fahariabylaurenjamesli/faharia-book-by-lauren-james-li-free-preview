@@ -1,9 +1,19 @@
-IMPORTANT: UPLOAD EVERY FILE IN THIS FOLDER DIRECTLY TO THE REPOSITORY ROOT.
+FINAL UPDATE: REMOVE THE TABLE OF CONTENTS AND MAP PAGES
 
-Do not upload the ZIP.
+FIRST, DELETE THESE THREE OLD FILES FROM THE EXISTING GITHUB REPOSITORY:
+- faharia-by-lauren-james-li-contents-one-1210.webp
+- faharia-by-lauren-james-li-contents-two-1210.webp
+- faharia-by-lauren-james-li-faharia-map-1210.webp
+
+THEN:
+1. Extract the final ZIP.
+2. Select every file inside the extracted folder.
+3. Upload all selected files directly to the GitHub repository root.
+4. Allow index.html, sitemap.xml, llms.txt, README.md and other matching files to be replaced.
+5. Commit message: Remove Faharia contents and map pages
+6. Wait for GitHub Pages to deploy.
+7. Open the live site and press Ctrl + Shift + R.
+
+Do not upload the ZIP itself.
 Do not create an assets folder.
-Do not upload the outer folder itself.
-
-The repository root must show index.html and all image files together.
-Commit message: Fix Faharia image paths with flat-file upload
-After GitHub Pages updates, press Ctrl + Shift + R on the live site.
+Do not remove google5bf8b88f444aabf3.html because it preserves Google Search Console verification.

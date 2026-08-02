@@ -1,0 +1,5 @@
+Delete these three obsolete files from the existing GitHub repository before or after uploading the final replacement package:
+
+faharia-by-lauren-james-li-contents-one-1210.webp
+faharia-by-lauren-james-li-contents-two-1210.webp
+faharia-by-lauren-james-li-faharia-map-1210.webp
